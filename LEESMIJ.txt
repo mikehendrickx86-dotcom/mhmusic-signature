@@ -1,0 +1,11 @@
+MHMusic finale handtekening (10-10-2026)
+
+De originele finale afbeelding is ongewijzigd; alleen technisch gesneden en verkleind.
+
+1. Upload de zeven PNG-deelbestanden (r1.png enz.) naar de map final2026/ van de bestaande GitHub repository mhmusic-signature. Upload ook MHMusic_Handtekening_Final.html indien gewenst.
+2. Pas daarna verwijst de HTML naar werkende afbeeldingen op GitHub Pages.
+3. Hostinger: plak de inhoud van MHMusic_Hostinger_HTML.txt in de HTML-broneditor. Let op: Hostinger voegde bij eerdere pogingen zelf <br>-tags toe; de witte strepen kunnen daardoor terugkomen.
+4. Apple Mail Mac: het .mailsignature-template moet worden geïnstalleerd onder de BESTAANDE naam van jouw signaturebestand en daarna vergrendeld. Maak vooraf een backup.
+5. iPhone/iPad: kopieer vanuit een ontvangen testmail indien op jouw toestel ondersteund.
+
+Klikbare zones: bellen, WhatsApp, mail, Instagram. De PNG zelf bevat geen links.
